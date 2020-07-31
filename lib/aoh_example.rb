@@ -17,7 +17,7 @@ def assembled_aoh
 end
 
 def literal_aoh
-  new_array = [
+  this_array = [
     DON_G.sort,
     JOELLE_VD.sort,
     PAT_M.sort,
